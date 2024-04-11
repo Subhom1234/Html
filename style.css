@@ -1,0 +1,102 @@
+body {
+    margin: 0px;
+    background-color: #CACACA;
+}
+.container{
+  
+  width: 100%;
+  height: auto;
+  
+}
+#border-1{
+  text-align: left;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  width: 80%;
+  border: 2px solid black;
+  box-shadow: 20px 10px 20px 20px #B0ABABC4;
+  border-radius: 50px;
+  
+}
+#h2{
+  text-align: center;
+}
+p{
+  padding-left: 3vh;
+  padding-right: 2vh;
+  padding-bottom: 3vh;
+}
+#Frontend-1{
+  margin-left: 4%;
+}
+table{
+  width: 90%;
+}
+form{
+  margin-top: 10vh;
+  width: 80%;
+  background-color: #0A71E5C4;
+  border-radius: 40px;
+  padding-top: 4vh;
+  padding-bottom: 4vh;
+  margin-bottom: 10vh;
+}
+a{
+  text-decoration: none;
+  color: black;
+  
+}
+#copyright{
+  
+  margin-top: 5.7%;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  width: 100%;
+  background-color: #2F2F3578;
+  text-align: center;
+  margin-bottom: 0px;
+}
+#submit{
+  border-radius: 40px;
+  cursor: pointer;
+  
+}
+input,textarea{
+  border-radius: 40px;
+  
+}
+textarea{
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+}
+#td-1{
+  width: 100px;
+  
+  background-image: url('Adobe_Express_20240411_2138340_1.png');
+  background-position: center;
+  background-size: cover;
+background-repeat: no-repeat;
+}
+#td-2{
+  width: 100px;
+  
+  background-image: url('Adobe_Express_20240411_2134000_1.png');
+  background-position: center;
+  background-size: 150%;
+  background-repeat: no-repeat;
+  
+}
+#td-3{
+  width: 100px;
+  
+  background-image: url('Adobe_Express_20240411_2136260_1.png');
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+#td-txt{
+padding-left: 2%;
+padding-right: 2%;
+}
